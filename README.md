@@ -1,6 +1,6 @@
 # Anyhoo Gen-Ed AI Recommender
 
-**[Live demo](https://anyhoo.vercel.app/)** · Ingestion pipeline source: [fetch_courses.py](https://github.com/jpiasodimu/sigaida-guided-project/blob/main/gen-ed-ai/api/fetch_courses.py)
+Ingestion pipeline source: [fetch_courses.py](https://github.com/jpiasodimu/sigaida-guided-project/blob/main/gen-ed-ai/api/fetch_courses.py)
 
 ## What this project does
 
